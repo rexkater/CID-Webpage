@@ -1,0 +1,319 @@
+body{
+
+	margin: 0;
+	background-image: url("fotos/background.jpg"); 
+	font-family: 'Cabin', sans-serif;
+    background-size: cover;
+    width: 98.2%;
+
+}
+
+.tab{
+
+    width: 1583px;
+
+}
+
+.tab2{
+
+    border-style: groove;
+    border-color: black;
+    height:100px;
+    width:1577px;
+    background-image: url("fotos/silver.jpg");
+    background-size: 100% 100%;
+    -webkit-box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    
+}
+
+#pagina{
+
+    border-style: ridge;
+    border-color: white;
+    margin-left: 21.2%;
+	margin-top: 139px;
+    margin-bottom: 139px;
+	height: 1387px;
+	width: 900px;
+    
+    -webkit-box-shadow: 6px 7px 23px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 7px 23px 2px rgba(0,0,0,0.75);
+    box-shadow: 6px 7px 23px 2px rgba(0,0,0,0.75);
+    
+
+}
+
+.header{
+
+	width: 100%;
+	height: 150px;
+
+}
+
+.body{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+/* .content div afecta al footer también. */
+
+.content{
+
+    margin-top: 67px;
+    padding-left: 3%;
+    height: 1020px;
+    background-image: url("fotos/blue.jpg");
+
+}
+
+.about{
+
+    background-color: white;
+    margin-top: 4.5%;
+    overflow: auto;
+    padding: 2% 2%;
+    margin-left: 3.5%;
+    width: 85.4%;
+    height: 16%;
+    border-style: groove;
+    border-color: black;
+    display: inline-block;
+    
+    -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+
+}
+
+h6{
+
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+.par{
+
+    text-indent: 30px;
+    font-size: 14px;
+
+}
+
+.rdc{
+
+    background-color: white;
+    border-style: groove;
+    border-color: black;
+    margin-top: 5%;
+    margin-left: 3.5%;
+    width: 35%;
+    height: 25%;
+	padding: 1% 2%;
+	vertical-align: top;
+	display: inline-block;
+
+    -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    
+}
+
+.sup{
+
+    background-color: white;
+    border-style: groove;
+    border-color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 40%;
+    height: 25%;
+	padding: 1% 2%;
+	vertical-align: top;
+	display: inline-block;     
+
+    -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    
+}
+
+.links{
+
+    background-color: white;
+    border-style: groove;
+    border-color: black;
+    width: 40%;
+    height: 34%;
+    margin-top: 5%;
+    margin-left: 5%;
+    padding: 1% 2%;
+	vertical-align: top;
+	display: inline-block;  
+    
+    -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+}
+
+.news{
+
+    background-color: white;
+    border-style: groove;
+    border-color: black;
+    width: 35%;
+    height: 34%;
+    margin-top: 5%;
+    margin-left: 3.5%;
+    padding: 1% 2%;
+    vertical-align: top;
+    display: inline-block; 
+    
+   -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    
+}
+
+.ntitle{
+
+    text-align: center;
+    border-bottom-style:dotted;
+
+}
+
+dl{
+
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 5%;
+    font-size: 13.1px;
+
+}
+
+.footer{
+
+	width: 100%;
+	height: 100px;
+
+}
+
+.end{
+    
+    margin-bottom: 0;
+    padding: 2px 15px;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+    width:99.8%;
+    background-image: url("fotos/silver.jpg");
+    background-size: 100% 100%;
+    -webkit-box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    box-shadow: -1px 1px 21px 7px rgba(0,0,0,0.75);
+    height:69px;
+
+}
+
+h2{
+
+    margin-top: 1.6%;
+    font-size: 14px;
+
+}
+
+h3{
+
+    width: 30%;
+    margin-top: 8%;
+    margin-left: 5%;
+    padding: 1% 2%;
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.tab8{
+
+    padding: 0 25px;
+
+}
+
+/* --- Imagenes --- */
+
+.img1{
+
+	width: 100%;
+	height: 100%;
+
+}
+
+.img2{
+    
+    background-image: url("fotos/orange.jpg"); 
+    width: 100%;
+    height: 150px;
+    text-align: center;
+	size: 100%;
+    
+    -webkit-box-shadow: 0px -1px 9px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 9px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 9px 0px rgba(0,0,0,0.75);
+    
+}
+
+.img3{
+
+	width: 90px;
+	height: 90px;
+    padding: 5px 9px;
+
+}
+
+.img4{
+
+    margin-top: 12px;
+    margin-left:30px;
+    border-style:ridge;
+    border-color: black;
+    
+    -webkit-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px -2px rgba(0,0,0,0.75);
+
+}
+
+.img5{
+
+    margin-left: 85%;
+    margin-bottom: 10px;
+	width: 120px;
+	height: 80px;
+
+}
+
+/* --- Textos --- */
+
+p{
+
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.2em;
+
+}
+
+/* --- Links --- */
+
+/* unvisited link */
+a:link {color: blue;}
+
+/* visited link */
+a:visited {color: #CC3300;}
+
+/* mouse over link */
+a:hover {color: green;}
+
+/* selected link */
+a:active {color: black;}
